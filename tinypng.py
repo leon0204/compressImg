@@ -8,7 +8,7 @@ from multiprocessing import Pool
 from PIL import Image
 
 poolLimite = 10
-key = "svdepkLmYsIQLWilVdiKRLEfK7ee6JTw"
+key = "这里填你申请的apikey，网址是 https://tinypng.com/dashboard/developers ，免费的"
 opts, args = getopt.getopt(sys.argv[1:], "hi:o:r:")
 input_doc_path=""
 output_doc_path = ""
