@@ -18,6 +18,13 @@ python tinypng.py -r <源目录> <目标目录>
 
 如果不填目标目录，默认为覆盖原图
 
+原图827kb：
+ ![原图827kb](https://raw.githubusercontent.com/leon0204/compressImg/master/img/3.png)
+
+压缩图202kb：
+ ![原图827kb](https://raw.githubusercontent.com/leon0204/compressImg/master/img/3-1.png)
+
+
 
 #### TODO
 进一步优化
